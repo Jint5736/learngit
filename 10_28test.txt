@@ -3,3 +3,4 @@ Git is free software.
 Git is a good tool.
 更改最新
 增加新分支
+解决冲突1
